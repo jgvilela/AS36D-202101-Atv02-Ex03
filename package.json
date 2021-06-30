@@ -1,0 +1,22 @@
+{
+  "name": "as36d-202101-atv02-ex03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgvilela/AS36D-202101-Atv02-Ex03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgvilela/AS36D-202101-Atv02-Ex03/issues"
+  },
+  "homepage": "https://github.com/jgvilela/AS36D-202101-Atv02-Ex03#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
